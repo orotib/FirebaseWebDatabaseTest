@@ -2,7 +2,7 @@ Hivatalos doksi:
 https://firebase.google.com/docs/database/web/start
 
 Database-od linkje:
-https://console.firebase.google.com/project/<your_project_name>/database/data
+https://console.firebase.google.com/project/**your_project_name**/database/data
 
 1. A Database DATA fülén adj hozzá két elemet (a Name-nek meg kell egyeznie, a Value mindegy)
 	Name "greetings"	Value: <whatever>
