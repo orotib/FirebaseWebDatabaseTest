@@ -14,8 +14,7 @@ https://firebase.google.com/docs/database/web/start
 	".write": true
 	```
 
-- Az upload.js 3. sorába másold be a saját APIkey-edet.
-	Az "Add Firebase to your web app" gombra kattintva kapod meg az APIkey-t.
+- Az upload.js 3. sorába másold be a saját APIkey-edet. A főoldalon az "Add Firebase to your web app" gombra kattintva kapod meg az APIkey-t.
 
 - Nyisd meg böngészővel az index.html-t.
 
